@@ -13,3 +13,5 @@ git clone https://github.com/idarlington/ssdb-linux-arm.git
 ``` sh
 sudo mv ssdb-linux-arm/ssdb/ /usr/local/
 ````
+
+For further information on ssdb, go to the project's [github page](https://github.com/ideawu/ssdb)
